@@ -1,0 +1,14 @@
+{
+  "name": "algorithms-and-data-structures-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gsthedev/algorithms-and-data-structures-practice.git",
+  "author": "gsthedev <garrett@gsthedev.com>",
+  "license": "MIT",
+  "scripts": {
+    "build:ts": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
